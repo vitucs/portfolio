@@ -122,6 +122,12 @@ h4 {
 .btn-fill {
     color: #fff;
     background-color: #212121;
+    
+}
+
+.btn-fill:hover, .btn-border:hover{
+    transform: scale(1.05);
+    transition: 0.5s all;
 }
 
 .btn-border {
@@ -129,6 +135,7 @@ h4 {
     color: #212121;
     border: 1px solid #212121;
 }
+
 
 .btn-fill:hover,
 .btn-fill:focus {
