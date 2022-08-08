@@ -666,3 +666,7 @@ a.icon-up-bg:hover {
     color: #fff;
     text-align: center;
 }
+
+#portfolio{
+    display:none;
+}
